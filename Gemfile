@@ -24,6 +24,8 @@ gem 'jbuilder', '~> 2.7'
 
 gem 'devise'
 
+gem 'amazing_print', '~> 1.2.1'
+
 
 
 # Use Active Storage variant
